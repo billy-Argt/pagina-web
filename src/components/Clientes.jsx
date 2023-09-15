@@ -41,7 +41,8 @@ const Clientes = () => {
                   : "bg-gray-300 text-gray-800"
               } text-sm font-semibold inline-flex items-center px-4 py-2 rounded-full cursor-pointer hover:bg-blue-800 hover:text-white transition-colors duration-300`}
             >
-              
+               
+
               {tipoCliente}
             </div>
           );
