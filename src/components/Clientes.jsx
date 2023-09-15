@@ -44,6 +44,7 @@ const Clientes = () => {
                
 
               {tipoCliente}
+              
             </div>
           );
         })}
